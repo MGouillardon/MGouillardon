@@ -56,7 +56,3 @@ Modern web application showcasing clean architecture principles
 ## Get In Touch 📫
 
 Feel free to reach out if you want to collaborate on a project or just have a chat about tech!
-
----
-
-⭐️ From [MGouillardon](https://github.com/MGouillardon)
