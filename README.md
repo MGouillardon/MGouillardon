@@ -1,15 +1,15 @@
-# Hi there, I'm Maxime 👋
+# Hi there, I'm Maxime 👋 
 
 [![GitHub followers](https://img.shields.io/github/followers/MGouillardon?label=Follow&style=social)](https://github.com/MGouillardon)
 
 ## About Me 🚀
-I'm a Full Stack Developer passionate about creating robust and elegant web applications. 
-With a focus on clean architecture & best practices, I strive to build maintainable and efficient solutions using Vue.js and AdonisJS.
 
-- 🔭 I'm currently working on **full-stack web applications**
-- 🌱 I'm deepening my knowledge in **Javascript** ecosystem
-- 💡 I enjoy exploring new technologies and implementing efficient solutions
-- 🎯 Goal: Contributing to innovative web projects
+I'm a Full Stack Developer with expertise in **Vue.js** and **Laravel/AdonisJS**, passionate about creating robust and elegant web applications. With a focus on clean architecture & best practices, I strive to build maintainable and efficient solutions.
+
+- 🔭 Currently working on **enterprise-level web applications**
+- 🌱 Deepening my knowledge in **modern JavaScript** ecosystem
+- 💡 Passionate about **clean code** and **test-driven development**
+- 🎯 Goal: Building scalable and maintainable applications
 
 ## Tech Stack 🛠️
 
@@ -40,17 +40,23 @@ With a focus on clean architecture & best practices, I strive to build maintaina
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Current Learning Path 📚
-- Advanced Vue 3 Patterns
-- Clean architecture principles
+
+- Advanced Vue 3 Patterns & Composition API
+- Clean Architecture Principles
 - Test-Driven Development Best Practices
 
 ## Featured Projects 🌟
 
-<div>
-  <a href="https://github.com/MGouillardon/deco-du-monde">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MGouillardon&repo=deco-du-monde&theme=catppuccin_macchiato&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=89b4fa&title_color=94e2d5"/>
-  </a>
-  <a href="https://github.com/MGouillardon/briar">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MGouillardon&repo=briar&theme=catppuccin_macchiato&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=89b4fa&title_color=94e2d5"/>
-  </a>
-</div>
+### 🏺 [Deco du Monde](https://github.com/MGouillardon/deco-du-monde)
+Full-stack Photo Studio Management built with AdonisJS & Vue.js
+
+### 🌿 [Briar](https://github.com/MGouillardon/briar)
+Modern web application showcasing clean architecture principles
+
+## Get In Touch 📫
+
+Feel free to reach out if you want to collaborate on a project or just have a chat about tech!
+
+---
+
+⭐️ From [MGouillardon](https://github.com/MGouillardon)
